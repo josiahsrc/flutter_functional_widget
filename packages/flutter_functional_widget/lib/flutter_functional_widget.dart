@@ -1,1 +1,1 @@
-export 'src/functional_widget_macro.dart';
+export 'src/macro.dart';

@@ -1,5 +1,7 @@
 # Flutter functional widget
 
+🚧 EXPERIMENTAL - DO NOT USE IN PRODUCTION 🚧
+
 An experiment to see what a functional widget might look like in flutter. Taking inspiration from react to try to reduce boilerplate.
 
 ## New API

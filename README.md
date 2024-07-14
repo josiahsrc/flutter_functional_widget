@@ -4,6 +4,9 @@
 
 An experiment to see what a functional widget might look like in flutter. Taking inspiration from react to try to reduce boilerplate.
 
+EDIT: There is a much more flushed out implementation here: https://github.com/dart-lang/language/blob/main/working/macros/example/lib/functional_widget.dart
+(I wasn't aware of this at the time of writing this)
+
 ## New API
 
 For example, you might define a function like this
